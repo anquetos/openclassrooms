@@ -1,0 +1,39 @@
+### Projet-6 matplotlib plotting style as of v1.5
+
+### LINES
+# See https://matplotlib.org/api/artist_api.html#module-matplotlib.lines for more
+# information on line properties.
+lines.linewidth   : 2.0     # line width in points
+
+### AXES
+# default face and edge color, default tick sizes,
+# default fontsizes for ticklabels, and so on.  See
+# https://matplotlib.org/api/axes_api.html#module-matplotlib.axes
+
+axes.edgecolor      : 0.8       # axes edge color
+axes.grid           : True   # display grid or not
+axes.grid.which     : both
+axes.grid.axis      : y
+
+axes.prop_cycle    : cycler('color', ['577590', '90be6d', 'f94144', '43aa8b', 'f3722c', 'f9c74f'])
+                                           # color cycle for plot lines
+                                           # as list of string colorspecs:
+                                           # single letter, long name, or
+                                           # web-style hex
+
+axes.spines.bottom  : True
+axes.spines.left    : False
+axes.spines.right   : False
+axes.spines.top     : False
+
+### TICKS
+# see https://matplotlib.org/api/axis_api.html#matplotlib.axis.Tick
+
+xtick.top            : False   # draw ticks on the top side
+xtick.bottom         : False   # draw ticks on the bottom side
+
+ytick.left           : False   # draw ticks on the left side
+ytick.right          : False   # draw ticks on the right side
+
+### GRIDS
+grid.color           : 0.8       # grid color

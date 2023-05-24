@@ -1,0 +1,25 @@
+<img src='./oc-logo.jpeg' width=64x />
+
+# OpenClassrooms
+Ce dépôt contient une partie des projets réalisés dans le cadre du parcours de formation *[Data Analyst](https://openclassrooms.com/fr/paths/324-data-analyst)* dispensé par OpenClassrooms.
+## Outils utilisés
+||Jupyter<br>notebook|Python|NumPy|Pandas|Matplotlib|ScyPy|
+|--|:--:|:--:|:--:|:--:|:--:|:--:|
+|Projet 4|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |
+|Projet 5|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |
+|Projet 6|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|
+## Projet 4 : Réaliser une étude de santé publique
+**Scénario**<br>
+Nous intervenons en tant que *Data Analyst* au sein d'une équipe de chercheurs de la *[Food and Agriculture Organization of the United Nations (FAO)](http://www.fao.org/home/fr/)* qui est une agence spécialisée de l'ONU menant des efforts internationaux vers l'élimination de la faim.<br><br>
+**Objectif**<br>
+Réaliser une étude sur le thème de la sous-nutrition et livrer nos analyses.
+## Projet 5 : Optimiser la gestion des données d'une boutique
+**Scénario**<br>
+Dans le cadre de ce projet, nous sommes *Data Analyst freelance* en mission chez BottleNeck, un marchand de vin très prestigieux.<br><br>
+**Objectif**<br>
+Obtenir un jeu de données cohérent et complet à partir des fichiers qui nous ont été fournis puis étudier les ventes de la boutique en ligne. Il faudra également réaliser une étude univariée sur les prix de ventes des produits.<br><br>
+## Projet 6 : Analyser les ventes d'une librairie avec Python
+**Scénario**<br>
+Nous sommes consultant *Data Analyst* rattaché au service Marketing chez Lapage, une grande librairie généraliste en ligne très réputée. Lapage était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne. Nous intervenons car l’entreprise souhaite faire le point après deux ans d’exercice.<br><br>
+**Objectif**<br>
+Obtenir un jeu de données exploitables à partir des fichiers source, puis réaliser une analyse complète : chiffres clés, KPI, graphiques, etc.. Nous réalisons également plusieurs tests statistiques afin de vérifier la corrélation entre différentes variables liées au profil des clients. <br><br>

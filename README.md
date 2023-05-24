@@ -20,6 +20,6 @@ Dans le cadre de ce projet, nous sommes *Data Analyst freelance* en mission chez
 Obtenir un jeu de données cohérent et complet à partir des fichiers qui nous ont été fournis puis étudier les ventes de la boutique en ligne. Il faudra également réaliser une étude univariée sur les prix de ventes des produits.<br><br>
 ## Projet 6 : Analyser les ventes d'une librairie avec Python
 **Scénario**<br>
-Nous sommes consultant *Data Analyst* rattaché au service Marketing chez Lapage, une grande librairie généraliste en ligne très réputée. Lapage était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne. Nous intervenons car l’entreprise souhaite faire le point après deux ans d’exercice.<br><br>
+Nous sommes consultant *Data Analyst* rattaché au service Marketing chez Lapage, une grande librairie généraliste en ligne très réputée. Devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé d’ouvrir un site de vente en ligne. Nous intervenons car l’entreprise souhaite faire le point après deux ans d’exercice.<br><br>
 **Objectif**<br>
 Obtenir un jeu de données exploitables à partir des fichiers source, puis réaliser une analyse complète : chiffres clés, KPI, graphiques, etc.. Nous réalisons également plusieurs tests statistiques afin de vérifier la corrélation entre différentes variables liées au profil des clients. <br><br>

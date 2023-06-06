@@ -8,7 +8,7 @@ Ce dépôt contient une partie des projets réalisés dans le cadre du parcours 
 |Projet 4|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |        |
 |Projet 5|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |        |
 |Projet 6|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |
-|Projet 7|        |        |        |        |        |        |&#10003;|
+|Projet 7|&#10003;|&#10003;|&#10003;|&#10003;|        |        |&#10003;|
 
 ## Projet 4 : Réaliser une étude de santé publique
 **Scénario**<br>

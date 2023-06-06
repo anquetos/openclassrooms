@@ -1,0 +1,257 @@
+"id_salarie","sexe","age","tranche_age","service","contrat","anciennete_an","duree_du_travail","promotion","remuneration_brute_an","augmentation","accident_travail","Selected (JavaScript Table View)"
+"16000206-8278","F",64,"50 ans et plus","Marketing","CDI",12.6,"TC","Oui",89277,"Oui","Non",0
+"16011205-0331","F",65,"50 ans et plus","Commercial","CDI",11.8,"TP","Oui",78793,"Non","Oui",0
+"16020327-1465","F",49,"De 40 à 49 ans","RH","CDI",11.9,"TP","Oui",126532,"Oui","Non",0
+"16020701-3376","F",41,"De 40 à 49 ans","Compta Finances","CDI",10.2,"TC","Non",113927,"Oui","Non",0
+"16020725-8401","F",43,"De 40 à 49 ans","Consultant","CDI",7.9,"TC","Non",102552,"Oui","Non",0
+"16021124-8356","F",56,"50 ans et plus","RH","CDI",8.6,"TC","Non",110903,"Oui","Oui",0
+"16021125-4271","H",51,"50 ans et plus","Commercial","CDI",14.9,"TC","Non",24819,"Oui","Non",0
+"16030220-7121","F",49,"De 40 à 49 ans","Consultant","CDI",6.3,"TC","Oui",161998,"Non","Non",0
+"16030828-8604","F",52,"50 ans et plus","Commercial","CDI",18.2,"TC","Non",132621,"Oui","Oui",0
+"16031007-1667","F",48,"De 40 à 49 ans","Commercial","CDI",23.1,"TC","Oui",67838,"Oui","Oui",0
+"16050210-5695","F",57,"50 ans et plus","Consultant","CDI",23.8,"TC","Non",140260,"Oui","Non",0
+"16050407-7405","F",66,"50 ans et plus","RH","CDI",6.7,"TP","Oui",53361,"Oui","Non",0
+"16050619-6252","F",54,"50 ans et plus","Commercial","CDI",23.9,"TC","Oui",85799,"Oui","Oui",0
+"16050721-8014","F",67,"50 ans et plus","RH","CDI",18.6,"TC","Oui",88290,"Non","Non",0
+"16060812-9664","H",66,"50 ans et plus","Compta Finances","CDI",20.5,"TC","Non",41249,"Oui","Oui",0
+"16080130-8107","H",48,"De 40 à 49 ans","Marketing","CDI",24.1,"TC","Oui",118112,"Oui","Non",0
+"16080411-7877","H",60,"50 ans et plus","Consultant","CDI",13.3,"TP","Oui",36466,"Oui","Non",0
+"16080824-2457","H",49,"De 40 à 49 ans","Compta Finances","CDI",15.2,"TC","Non",112576,"Oui","Non",0
+"16081104-1011","F",37,"De 30 à 39 ans","Compta Finances","CDD",1.1,"TC","Non",26958,"Non","Non",0
+"16081120-1045","F",58,"50 ans et plus","Consultant","CDI",9.1,"TC","Oui",128637,"Oui","Non",0
+"16090206-9129","F",61,"50 ans et plus","Consultant","CDI",10.3,"TC","Non",53968,"Non","Oui",0
+"16090608-0239","F",56,"50 ans et plus","RH","CDI",19.5,"TP","Oui",38932,"Non","Non",0
+"16090824-7661","H",35,"De 30 à 39 ans","Marketing","CDI",9.9,"TP","Oui",115681,"Oui","Non",0
+"16091122-3147","F",38,"De 30 à 39 ans","Consultant","CDD",1.1,"TC","Non",27252,"Non","Non",0
+"16100329-5753","F",41,"De 40 à 49 ans","RH","CDI",7.9,"TC","Oui",103790,"Oui","Oui",0
+"16100419-9707","F",42,"De 40 à 49 ans","RH","CDI",5.2,"TC","Oui",124902,"Non","Non",0
+"16100424-1459","H",41,"De 40 à 49 ans","Compta Finances","CDI",18.6,"TP","Oui",78993,"Oui","Non",0
+"16100606-3398","H",42,"De 40 à 49 ans","Compta Finances","CDI",10.3,"TC","Oui",52376,"Oui","Oui",0
+"16100719-6502","F",39,"De 30 à 39 ans","Compta Finances","CDI",16.5,"TC","Oui",120239,"Non","Non",0
+"16101212-2048","H",59,"50 ans et plus","Commercial","CDI",13.8,"TC","Non",80726,"Non","Non",0
+"16110307-6129","F",52,"50 ans et plus","Commercial","CDI",13.8,"TC","Oui",133343,"Oui","Oui",0
+"16111023-3358","H",65,"50 ans et plus","Marketing","CDI",13.1,"TC","Non",139841,"Oui","Oui",0
+"16111130-1717","H",38,"De 30 à 39 ans","Commercial","CDI",16.2,"TC","Non",83536,"Oui","Oui",0
+"16130305-6954","F",59,"50 ans et plus","Consultant","CDI",24.7,"TC","Oui",73001,"Oui","Non",0
+"16140409-8707","F",37,"De 30 à 39 ans","Commercial","CDI",3,"TC","Non",86167,"Non","Non",0
+"16141213-3603","F",51,"50 ans et plus","Commercial","CDI",4.6,"TC","Non",78275,"Oui","Oui",0
+"16160206-9161","H",67,"50 ans et plus","Consultant","CDI",6.2,"TC","Non",39118,"Oui","Non",0
+"16170310-5534","F",55,"50 ans et plus","Compta Finances","CDI",14.3,"TC","Non",73528,"Oui","Non",0
+"16170623-3887","F",60,"50 ans et plus","RH","CDI",16.2,"TC","Oui",43013,"Oui","Non",0
+"16170926-3188","H",45,"De 40 à 49 ans","R&D","CDI",6,"TC","Non",78712,"Non","Oui",0
+"16181114-4680","F",48,"De 40 à 49 ans","Compta Finances","CDI",12.5,"TC","Oui",108550,"Oui","Non",0
+"16181212-5860","H",59,"50 ans et plus","Consultant","CDI",3.4,"TC","Non",38526,"Oui","Oui",0
+"16181217-7101","F",53,"50 ans et plus","RH","CDI",16.2,"TP","Oui",35505,"Oui","Oui",0
+"16190724-3065","H",41,"De 40 à 49 ans","Consultant","CDI",17.4,"TC","Non",34736,"Non","Oui",0
+"16200506-8370","H",51,"50 ans et plus","Commercial","CDI",19.2,"TC","Non",100610,"Oui","Oui",0
+"16211102-1297","H",53,"50 ans et plus","Consultant","CDI",21.2,"TC","Oui",48673,"Oui","Non",0
+"16220127-8625","H",49,"De 40 à 49 ans","Consultant","CDI",16.9,"TC","Oui",74703,"Oui","Oui",0
+"16220420-6227","H",47,"De 40 à 49 ans","Consultant","CDI",24.2,"TC","Oui",67216,"Oui","Oui",0
+"16220428-5924","H",54,"50 ans et plus","Consultant","CDI",7,"TC","Non",85232,"Oui","Non",0
+"16221207-5101","H",51,"50 ans et plus","Consultant","CDI",14.2,"TC","Non",25269,"Oui","Oui",0
+"16230105-6343","H",57,"50 ans et plus","Consultant","CDI",19.1,"TC","Oui",109626,"Non","Oui",0
+"16230523-1322","F",42,"De 40 à 49 ans","Compta Finances","CDI",8.1,"TC","Oui",53936,"Non","Non",0
+"16230718-4297","F",57,"50 ans et plus","Compta Finances","CDI",24.8,"TP","Oui",50400,"Oui","Oui",0
+"16231022-5566","H",47,"De 40 à 49 ans","RH","CDI",6.4,"TC","Non",137593,"Oui","Oui",0
+"16240230-3065","H",60,"50 ans et plus","RH","CDI",19,"TC","Non",135387,"Non","Non",0
+"16240920-3425","F",58,"50 ans et plus","Commercial","CDI",8.2,"TC","Non",34094,"Non","Non",0
+"16241106-8329","F",48,"De 40 à 49 ans","Marketing","CDI",6.7,"TC","Non",115044,"Non","Oui",0
+"16241218-7045","H",63,"50 ans et plus","Consultant","CDI",7.2,"TC","Non",61646,"Non","Oui",0
+"16250316-9381","F",49,"De 40 à 49 ans","Compta Finances","CDI",15.8,"TC","Non",130873,"Oui","Oui",0
+"16260415-5834","H",56,"50 ans et plus","R&D","CDI",4.2,"TC","Non",69434,"Non","Oui",0
+"16260907-1895","F",39,"De 30 à 39 ans","Marketing","CDI",14,"TC","Oui",22636,"Non","Non",0
+"16270818-3112","F",59,"50 ans et plus","RH","CDI",4.4,"TC","Non",81017,"Non","Non",0
+"16281009-4371","H",66,"50 ans et plus","Compta Finances","CDI",5.5,"TC","Oui",92268,"Oui","Non",0
+"16290104-5498","H",53,"50 ans et plus","R&D","CDI",7.9,"TC","Non",120622,"Oui","Oui",0
+"16290605-1228","H",42,"De 40 à 49 ans","Marketing","CDI",13.8,"TC","Non",116402,"Non","Non",0
+"16290714-4014","F",42,"De 40 à 49 ans","Consultant","CDI",6.6,"TC","Oui",28957,"Non","Non",0
+"16300407-2348","F",53,"50 ans et plus","Consultant","CDI",5.7,"TC","Non",28410,"Oui","Non",0
+"16300713-6405","F",50,"50 ans et plus","Consultant","CDI",7.2,"TC","Non",95440,"Oui","Oui",0
+"16301213-1524","H",43,"De 40 à 49 ans","Consultant","CDD",1.8,"TC","Non",37458,"Non","Non",0
+"16301226-6122","H",68,"50 ans et plus","Marketing","CDI",19.3,"TC","Oui",58336,"Non","Oui",0
+"16310121-8257","H",59,"50 ans et plus","Commercial","CDI",14.9,"TC","Oui",157126,"Oui","Non",0
+"16310403-3810","F",56,"50 ans et plus","Compta Finances","CDI",9.3,"TC","Oui",70126,"Oui","Oui",0
+"16311229-8504","F",50,"50 ans et plus","RH","CDI",17.3,"TC","Non",100559,"Non","Non",0
+"16320710-7636","H",62,"50 ans et plus","R&D","CDI",22.6,"TP","Oui",55980,"Non","Non",0
+"16320910-2411","H",59,"50 ans et plus","Commercial","CDI",14.3,"TC","Non",113855,"Oui","Oui",0
+"16320923-9437","F",59,"50 ans et plus","RH","CDI",15.1,"TC","Non",84521,"Oui","Non",0
+"16330117-4748","F",64,"50 ans et plus","Commercial","CDI",3.8,"TC","Non",33290,"Non","Non",0
+"16330528-4048","F",40,"De 40 à 49 ans","Commercial","CDI",13.9,"TC","Non",137592,"Oui","Oui",0
+"16340716-8222","H",43,"De 40 à 49 ans","Commercial","CDI",21.1,"TC","Non",95447,"Non","Non",0
+"16340806-9395","F",57,"50 ans et plus","Commercial","CDI",9.9,"TP","Oui",68555,"Oui","Oui",0
+"16341225-2086","F",48,"De 40 à 49 ans","Compta Finances","CDI",22.7,"TP","Non",84157,"Non","Oui",0
+"16341230-0471","H",55,"50 ans et plus","R&D","CDI",23.3,"TP","Non",86748,"Non","Oui",0
+"16350127-5733","H",56,"50 ans et plus","Commercial","CDI",24.2,"TC","Non",41071,"Non","Oui",0
+"16350925-6446","H",46,"De 40 à 49 ans","Compta Finances","CDI",5.5,"TC","Oui",25176,"Oui","Non",0
+"16360125-5924","F",63,"50 ans et plus","Commercial","CDI",24.7,"TC","Oui",49714,"Oui","Non",0
+"16360616-0509","F",38,"De 30 à 39 ans","Compta Finances","CDI",4.8,"TC","Oui",67506,"Oui","Non",0
+"16360827-6352","F",33,"De 30 à 39 ans","Compta Finances","CDI",3.5,"TC","Non",32531,"Non","Non",0
+"16360908-7378","F",38,"De 30 à 39 ans","Commercial","CDI",10.6,"TC","Oui",123952,"Non","Non",0
+"16370212-9440","H",48,"De 40 à 49 ans","R&D","CDI",23.3,"TC","Oui",96448,"Oui","Oui",0
+"16370717-6461","F",45,"De 40 à 49 ans","Marketing","CDI",10.8,"TC","Non",61168,"Oui","Oui",0
+"16381004-1917","H",62,"50 ans et plus","RH","CDI",21.2,"TP","Oui",41684,"Non","Non",0
+"16390127-6224","F",57,"50 ans et plus","RH","CDI",23.9,"TC","Non",56510,"Non","Oui",0
+"16390301-2403","H",62,"50 ans et plus","RH","CDI",24,"TC","Oui",74926,"Non","Oui",0
+"16400112-6921","H",62,"50 ans et plus","Marketing","CDI",15.6,"TC","Oui",55024,"Non","Non",0
+"16400120-2136","H",44,"De 40 à 49 ans","Consultant","CDI",5.8,"TC","Non",94825,"Oui","Oui",0
+"16400410-2770","H",57,"50 ans et plus","Commercial","CDI",20,"TC","Non",119342,"Oui","Oui",0
+"16400510-0542","H",57,"50 ans et plus","Consultant","CDI",19,"TC","Oui",70048,"Non","Oui",0
+"16410407-6098","F",62,"50 ans et plus","Compta Finances","CDI",7.4,"TC","Non",112185,"Oui","Non",0
+"16410421-3634","F",60,"50 ans et plus","RH","CDI",14.9,"TC","Oui",57995,"Non","Oui",0
+"16411102-7886","H",37,"De 30 à 39 ans","RH","CDI",11.8,"TC","Oui",47058,"Non","Non",0
+"16420516-7234","H",41,"De 40 à 49 ans","RH","CDI",7.5,"TC","Oui",117512,"Non","Oui",0
+"16420625-3827","H",48,"De 40 à 49 ans","Consultant","CDI",9.3,"TP","Non",67283,"Oui","Non",0
+"16421009-6154","F",48,"De 40 à 49 ans","Consultant","CDI",21.1,"TC","Oui",31846,"Non","Non",0
+"16421204-6850","H",65,"50 ans et plus","Compta Finances","CDI",8.7,"TC","Oui",142972,"Non","Oui",0
+"16430518-1481","F",65,"50 ans et plus","Consultant","CDI",20.2,"TC","Non",94126,"Non","Oui",0
+"16430903-4405","F",59,"50 ans et plus","Marketing","CDI",8.8,"TC","Non",52361,"Non","Non",0
+"16431025-4026","H",45,"De 40 à 49 ans","Consultant","CDI",22.8,"TC","Non",60528,"Non","Non",0
+"16431030-6354","H",42,"De 40 à 49 ans","Consultant","CDI",8.3,"TC","Non",58058,"Oui","Non",0
+"16431129-7214","F",51,"50 ans et plus","RH","CDI",22.2,"TC","Non",128562,"Oui","Non",0
+"16440228-5151","H",56,"50 ans et plus","Consultant","CDI",2.9,"TC","Oui",71020,"Oui","Non",0
+"16440819-3466","F",41,"De 40 à 49 ans","Commercial","CDI",17,"TC","Non",50869,"Oui","Oui",0
+"16441109-5385","H",56,"50 ans et plus","Consultant","CDD",1.2,"TP","Non",31683,"Non","Non",0
+"16450910-7050","F",54,"50 ans et plus","RH","CDI",9.8,"TC","Oui",67407,"Non","Non",0
+"16451016-1336","H",45,"De 40 à 49 ans","Marketing","CDD",0.3,"TC","Non",54953,"Non","Non",0
+"16451112-4747","F",54,"50 ans et plus","Marketing","CDI",21.8,"TC","Non",110213,"Non","Oui",0
+"16460313-0032","F",67,"50 ans et plus","Consultant","CDI",12.6,"TC","Oui",57646,"Non","Oui",0
+"16460821-8733","H",53,"50 ans et plus","Commercial","CDI",18.7,"TC","Non",122920,"Non","Oui",0
+"16460901-5575","H",66,"50 ans et plus","Consultant","CDI",13.2,"TP","Oui",27620,"Non","Non",0
+"16460901-9957","F",54,"50 ans et plus","Compta Finances","CDI",13.7,"TC","Oui",26699,"Oui","Oui",0
+"16461115-9486","H",45,"De 40 à 49 ans","Marketing","CDI",10.2,"TC","Non",63816,"Non","Non",0
+"16470418-3807","H",52,"50 ans et plus","Compta Finances","CDI",13,"TC","Oui",160449,"Non","Oui",0
+"16490707-4639","F",54,"50 ans et plus","Marketing","CDI",16.2,"TC","Non",75574,"Oui","Oui",0
+"16491209-6288","H",44,"De 40 à 49 ans","Commercial","CDI",20.5,"TC","Non",96961,"Non","Oui",0
+"16500419-9062","F",39,"De 30 à 39 ans","RH","CDI",11.7,"TC","Non",134270,"Non","Oui",0
+"16500514-6310","F",47,"De 40 à 49 ans","Commercial","CDI",21.9,"TC","Non",95360,"Oui","Non",0
+"16510216-5973","H",49,"De 40 à 49 ans","Marketing","CDI",5.9,"TC","Non",94645,"Non","Non",0
+"16520121-8566","F",42,"De 40 à 49 ans","RH","CDI",20.6,"TP","Non",66370,"Non","Oui",0
+"16520612-7770","F",62,"50 ans et plus","R&D","CDI",24.4,"TC","Oui",58763,"Non","Oui",0
+"16530329-9431","F",53,"50 ans et plus","Commercial","CDI",19.4,"TC","Non",106665,"Non","Non",0
+"16540514-9153","H",59,"50 ans et plus","Compta Finances","CDI",15.7,"TC","Non",67020,"Non","Non",0
+"16540728-0337","F",63,"50 ans et plus","Compta Finances","CDD",1.8,"TC","Non",35417,"Non","Non",0
+"16550903-3725","H",37,"De 30 à 39 ans","RH","CDI",10,"TC","Non",151304,"Oui","Oui",0
+"16550904-2932","F",53,"50 ans et plus","Marketing","CDI",24.2,"TC","Non",69016,"Non","Non",0
+"16551001-4151","F",52,"50 ans et plus","Commercial","CDI",24.3,"TC","Non",93283,"Oui","Non",0
+"16560103-9174","H",63,"50 ans et plus","Consultant","CDI",23.5,"TC","Non",36657,"Oui","Oui",0
+"16560122-3612","H",46,"De 40 à 49 ans","Marketing","CDI",22.7,"TC","Non",147911,"Non","Non",0
+"16560125-0110","H",43,"De 40 à 49 ans","Commercial","CDI",22.6,"TC","Non",58700,"Non","Non",0
+"16560416-4227","F",47,"De 40 à 49 ans","Commercial","CDI",10.5,"TC","Non",122029,"Oui","Non",0
+"16560517-2740","H",40,"De 40 à 49 ans","Commercial","CDI",6.3,"TC","Oui",116053,"Non","Oui",0
+"16560624-9059","F",59,"50 ans et plus","Compta Finances","CDI",11.7,"TC","Oui",139469,"Non","Oui",0
+"16560730-2626","H",65,"50 ans et plus","R&D","CDI",22.8,"TC","Oui",106508,"Non","Oui",0
+"16571101-6617","H",54,"50 ans et plus","Commercial","CDI",23.2,"TC","Oui",86028,"Oui","Oui",0
+"16580220-7323","H",33,"De 30 à 39 ans","Marketing","CDI",12.4,"TC","Non",24447,"Oui","Non",0
+"16581203-8213","H",55,"50 ans et plus","Consultant","CDI",9.2,"TP","Oui",93335,"Oui","Oui",0
+"16590417-5196","H",55,"50 ans et plus","Compta Finances","CDI",22.2,"TC","Non",64649,"Non","Non",0
+"16590918-0399","H",48,"De 40 à 49 ans","RH","CDI",21.5,"TC","Non",109950,"Non","Oui",0
+"16600521-9024","H",53,"50 ans et plus","Consultant","CDI",12.5,"TC","Non",34808,"Non","Non",0
+"16600811-0956","H",57,"50 ans et plus","Compta Finances","CDI",14.2,"TC","Oui",56236,"Oui","Non",0
+"16600919-9578","H",41,"De 40 à 49 ans","Commercial","CDI",17.2,"TC","Oui",150306,"Non","Oui",0
+"16601210-4086","F",49,"De 40 à 49 ans","Marketing","CDI",22.3,"TC","Oui",62713,"Non","Non",0
+"16610522-9428","F",44,"De 40 à 49 ans","Compta Finances","CDI",5.2,"TC","Non",111990,"Non","Non",0
+"16610722-2223","H",51,"50 ans et plus","Commercial","CDI",10,"TC","Non",125573,"Oui","Oui",0
+"16610809-8713","F",40,"De 40 à 49 ans","Compta Finances","CDI",11.9,"TP","Oui",12844,"Non","Non",0
+"16611004-8219","F",44,"De 40 à 49 ans","Commercial","CDI",10.2,"TC","Oui",47248,"Oui","Non",0
+"16620412-8323","F",43,"De 40 à 49 ans","Consultant","CDI",11.7,"TC","Non",59172,"Oui","Non",0
+"16620606-6349","H",48,"De 40 à 49 ans","RH","CDI",20.4,"TC","Non",59339,"Non","Non",0
+"16620809-2681","H",36,"De 30 à 39 ans","Consultant","CDI",5.6,"TP","Oui",68479,"Non","Oui",0
+"16621028-8244","F",41,"De 40 à 49 ans","Commercial","CDI",17.3,"TC","Oui",96909,"Non","Non",0
+"16630411-0916","H",57,"50 ans et plus","Compta Finances","CDI",16.4,"TC","Oui",25531,"Oui","Non",0
+"16640209-4004","H",59,"50 ans et plus","Consultant","CDI",7.1,"TC","Oui",93065,"Non","Non",0
+"16640301-8754","F",62,"50 ans et plus","Marketing","CDI",4.2,"TC","Oui",47174,"Non","Oui",0
+"16640715-7632","H",60,"50 ans et plus","RH","CDI",12.7,"TC","Non",113308,"Oui","Oui",0
+"16640904-2246","H",38,"De 30 à 39 ans","Consultant","CDI",4.4,"TC","Non",23371,"Oui","Oui",0
+"16650614-4689","F",56,"50 ans et plus","RH","CDI",19.3,"TC","Non",49048,"Oui","Non",0
+"16660325-6006","F",64,"50 ans et plus","Consultant","CDI",9.7,"TC","Oui",101332,"Non","Oui",0
+"16660922-3489","F",60,"50 ans et plus","Commercial","CDI",5.3,"TC","Oui",46742,"Oui","Oui",0
+"16661123-8764","H",52,"50 ans et plus","Commercial","CDI",24.9,"TC","Oui",76126,"Non","Non",0
+"16661124-0695","F",46,"De 40 à 49 ans","Consultant","CDI",12,"TC","Oui",71250,"Oui","Oui",0
+"16670406-9274","H",60,"50 ans et plus","RH","CDI",7.5,"TC","Non",51228,"Oui","Non",0
+"16670913-0147","F",32,"De 30 à 39 ans","Compta Finances","CDD",0.8,"TC","Non",53020,"Non","Oui",0
+"16671208-2624","F",56,"50 ans et plus","Marketing","CDI",8.2,"TP","Non",94278,"Oui","Oui",0
+"16680515-6269","F",45,"De 40 à 49 ans","Marketing","CDI",16.8,"TC","Oui",56985,"Oui","Oui",0
+"16681012-6406","F",54,"50 ans et plus","Consultant","CDI",5.5,"TC","Oui",24701,"Oui","Non",0
+"16690714-7836","F",51,"50 ans et plus","Marketing","CDD",1.1,"TC","Non",46301,"Non","Oui",0
+"16691022-5702","H",61,"50 ans et plus","Consultant","CDI",20.1,"TC","Oui",116188,"Oui","Non",0
+"16700908-2889","H",43,"De 40 à 49 ans","Commercial","CDI",9.2,"TC","Oui",36468,"Non","Oui",0
+"16700930-1784","H",46,"De 40 à 49 ans","Marketing","CDI",20.6,"TC","Non",42797,"Oui","Oui",0
+"16710125-5136","F",41,"De 40 à 49 ans","Commercial","CDI",12.8,"TC","Non",34114,"Non","Oui",0
+"16710204-1402","H",43,"De 40 à 49 ans","RH","CDI",20.4,"TC","Non",109269,"Non","Non",0
+"16710920-7451","F",39,"De 30 à 39 ans","Consultant","CDI",15.7,"TC","Non",78426,"Oui","Non",0
+"16711027-7246","H",39,"De 30 à 39 ans","Consultant","CDI",6.5,"TC","Non",118874,"Oui","Oui",0
+"16720410-2094","F",51,"50 ans et plus","Commercial","CDI",10.8,"TC","Non",131532,"Oui","Oui",0
+"16720411-0782","F",54,"50 ans et plus","Consultant","CDI",16.2,"TC","Oui",34089,"Oui","Oui",0
+"16720627-1632","H",38,"De 30 à 39 ans","R&D","CDI",8.3,"TC","Non",125514,"Non","Non",0
+"16721116-8286","H",54,"50 ans et plus","Commercial","CDI",21.6,"TC","Oui",31919,"Non","Oui",0
+"16721204-5277","H",52,"50 ans et plus","Consultant","CDI",21.1,"TC","Oui",113368,"Oui","Oui",0
+"16730908-9915","F",66,"50 ans et plus","Compta Finances","CDI",23,"TC","Oui",127961,"Non","Oui",0
+"16730918-6273","F",55,"50 ans et plus","Marketing","CDD",0.6,"TC","Non",35235,"Non","Oui",0
+"16731208-8904","H",35,"De 30 à 39 ans","RH","CDI",9.7,"TC","Oui",102272,"Non","Non",0
+"16740208-0084","F",58,"50 ans et plus","Commercial","CDD",1.9,"TC","Non",43917,"Non","Oui",0
+"16740413-0572","H",35,"De 30 à 39 ans","RH","CDI",10.7,"TC","Oui",130166,"Oui","Oui",0
+"16741025-9738","F",38,"De 30 à 39 ans","RH","CDI",16.2,"TC","Oui",75242,"Oui","Non",0
+"16750302-5590","F",45,"De 40 à 49 ans","Commercial","CDI",23.9,"TC","Non",80371,"Oui","Oui",0
+"16750821-7945","H",57,"50 ans et plus","Consultant","CDI",7.4,"TC","Oui",130865,"Oui","Oui",0
+"16760117-3029","F",64,"50 ans et plus","Compta Finances","CDI",10.3,"TC","Oui",109247,"Non","Non",0
+"16760706-4982","H",43,"De 40 à 49 ans","Compta Finances","CDI",19,"TC","Oui",23343,"Non","Non",0
+"16761028-0344","H",59,"50 ans et plus","Consultant","CDI",7.3,"TP","Oui",84998,"Non","Oui",0
+"16761104-5282","H",56,"50 ans et plus","Consultant","CDI",6.3,"TP","Oui",15195,"Oui","Oui",0
+"16770513-2772","F",47,"De 40 à 49 ans","Consultant","CDI",3.8,"TC","Oui",126141,"Oui","Non",0
+"16770802-4604","F",66,"50 ans et plus","Consultant","CDD",0.4,"TC","Non",39312,"Non","Oui",0
+"16770921-1705","F",40,"De 40 à 49 ans","R&D","CDI",4.2,"TC","Non",96108,"Oui","Oui",0
+"16780226-1060","H",60,"50 ans et plus","Compta Finances","CDI",8.2,"TC","Oui",23764,"Non","Non",0
+"16781122-5775","H",52,"50 ans et plus","Marketing","CDI",22.4,"TC","Oui",55885,"Oui","Non",0
+"16790704-0179","F",51,"50 ans et plus","Commercial","CDD",1.7,"TC","Non",39367,"Non","Oui",0
+"16800116-6613","H",63,"50 ans et plus","Marketing","CDI",23.9,"TP","Oui",99348,"Oui","Non",0
+"16810204-2564","F",51,"50 ans et plus","R&D","CDI",9.1,"TC","Oui",121395,"Oui","Oui",0
+"16810230-7785","F",39,"De 30 à 39 ans","Marketing","CDI",2.5,"TC","Oui",25052,"Oui","Non",0
+"16810711-6330","H",42,"De 40 à 49 ans","Marketing","CDD",1.4,"TC","Non",25072,"Non","Non",0
+"16810725-6144","H",57,"50 ans et plus","RH","CDI",5.8,"TC","Non",65879,"Oui","Oui",0
+"16810820-7468","F",51,"50 ans et plus","Consultant","CDD",1.4,"TC","Non",41822,"Non","Non",0
+"16820319-6442","H",54,"50 ans et plus","Compta Finances","CDI",17.2,"TC","Non",49943,"Non","Oui",0
+"16820517-1112","F",50,"50 ans et plus","Consultant","CDI",17.4,"TC","Non",72627,"Oui","Oui",0
+"16820525-6301","H",46,"De 40 à 49 ans","Consultant","CDI",17.1,"TC","Non",23387,"Non","Non",0
+"16820814-8992","H",54,"50 ans et plus","Compta Finances","CDI",15.7,"TC","Oui",133692,"Oui","Non",0
+"16820822-2953","F",31,"De 30 à 39 ans","Consultant","CDI",9.3,"TC","Non",30805,"Non","Non",0
+"16830122-2462","H",61,"50 ans et plus","Commercial","CDI",15.6,"TC","Non",143271,"Oui","Non",0
+"16831218-0485","F",44,"De 40 à 49 ans","RH","CDI",3.7,"TC","Non",88462,"Non","Oui",0
+"16840316-2442","F",65,"50 ans et plus","Compta Finances","CDI",6,"TC","Oui",103574,"Oui","Oui",0
+"16850330-5826","H",48,"De 40 à 49 ans","Commercial","CDI",18.4,"TC","Non",109924,"Non","Non",0
+"16850430-6617","H",66,"50 ans et plus","RH","CDI",15.7,"TC","Non",66892,"Oui","Non",0
+"16851208-5567","H",50,"50 ans et plus","Consultant","CDI",23.7,"TP","Oui",26440,"Non","Oui",0
+"16860412-1965","H",47,"De 40 à 49 ans","Consultant","CDI",24.4,"TC","Non",52359,"Non","Non",0
+"16861012-1389","H",54,"50 ans et plus","RH","CDI",24,"TC","Oui",46727,"Non","Oui",0
+"16870824-4853","H",35,"De 30 à 39 ans","Marketing","CDI",8.2,"TC","Oui",43537,"Oui","Oui",0
+"16880121-1056","H",53,"50 ans et plus","Marketing","CDI",22.8,"TC","Oui",73476,"Oui","Oui",0
+"16890313-1335","F",64,"50 ans et plus","Commercial","CDI",6.8,"TC","Oui",37983,"Non","Oui",0
+"16890714-6248","H",56,"50 ans et plus","Consultant","CDI",10.3,"TP","Oui",22569,"Oui","Oui",0
+"16891006-1830","H",36,"De 30 à 39 ans","RH","CDI",3.1,"TC","Oui",49792,"Non","Non",0
+"16891013-6921","H",67,"50 ans et plus","RH","CDI",9.2,"TC","Non",35208,"Oui","Oui",0
+"16891203-4397","F",55,"50 ans et plus","Consultant","CDD",1.3,"TP","Non",36242,"Non","Oui",0
+"16891227-4985","F",35,"De 30 à 39 ans","Compta Finances","CDI",5.3,"TC","Oui",27826,"Oui","Oui",0
+"16900402-0286","H",62,"50 ans et plus","Marketing","CDI",15.6,"TC","Oui",114203,"Non","Oui",0
+"16900610-6265","H",64,"50 ans et plus","R&D","CDI",5.8,"TC","Oui",132088,"Non","Oui",0
+"16910501-3081","F",54,"50 ans et plus","Commercial","CDI",15.8,"TC","Oui",53320,"Oui","Oui",0
+"16910810-9712","H",53,"50 ans et plus","Consultant","CDI",12.2,"TC","Non",28546,"Non","Oui",0
+"16910826-9763","F",51,"50 ans et plus","Consultant","CDI",8.4,"TC","Non",84064,"Oui","Oui",0
+"16910902-6667","F",67,"50 ans et plus","Compta Finances","CDI",16.3,"TC","Oui",112433,"Non","Oui",0
+"16920105-1209","F",67,"50 ans et plus","Consultant","CDI",25,"TC","Non",41996,"Non","Non",0
+"16920219-1855","F",52,"50 ans et plus","Consultant","CDI",3.2,"TC","Oui",30195,"Oui","Oui",0
+"16920528-2461","H",43,"De 40 à 49 ans","R&D","CDI",15.2,"TC","Non",102516,"Non","Non",0
+"16920713-6616","H",51,"50 ans et plus","Marketing","CDI",23.3,"TC","Oui",81440,"Oui","Non",0
+"16920917-6040","H",52,"50 ans et plus","Commercial","CDI",13.1,"TC","Oui",91447,"Non","Oui",0
+"16931009-2151","H",59,"50 ans et plus","R&D","CDI",20,"TC","Oui",107070,"Non","Non",0
+"16931211-0175","F",57,"50 ans et plus","Commercial","CDI",22.4,"TP","Oui",87021,"Oui","Non",0
+"16940414-0312","F",43,"De 40 à 49 ans","Consultant","CDI",20.2,"TC","Oui",98230,"Non","Non",0
+"16940521-7028","F",67,"50 ans et plus","RH","CDI",5.9,"TC","Oui",72230,"Oui","Oui",0
+"16950514-2464","H",43,"De 40 à 49 ans","Compta Finances","CDI",18.9,"TC","Non",44200,"Non","Oui",0
+"16950828-2259","H",37,"De 30 à 39 ans","Marketing","CDI",7.5,"TP","Oui",91107,"Non","Non",0
+"16951117-9468","F",67,"50 ans et plus","RH","CDI",8.2,"TP","Oui",51242,"Non","Oui",0
+"16960619-9017","H",46,"De 40 à 49 ans","Marketing","CDI",17.8,"TC","Oui",152391,"Non","Oui",0
+"16960628-0338","H",54,"50 ans et plus","Commercial","CDI",10.5,"TC","Non",87870,"Non","Non",0
+"16960906-7989","H",39,"De 30 à 39 ans","R&D","CDD",3.3,"TC","Non",39307,"Oui","Oui",0
+"16970415-1050","H",59,"50 ans et plus","Consultant","CDI",21.7,"TC","Non",23828,"Oui","Non",0
+"16981206-3817","F",52,"50 ans et plus","RH","CDI",13,"TC","Oui",57357,"Oui","Oui",0
+"16990414-3527","H",67,"50 ans et plus","Consultant","CDI",10.8,"TC","Oui",71669,"Non","Non",0
+"16990924-2829","F",46,"De 40 à 49 ans","Consultant","CDI",22.5,"TC","Non",133885,"Non","Non",0

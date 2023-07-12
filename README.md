@@ -3,12 +3,13 @@
 # OpenClassrooms
 Ce dépôt contient une partie des projets réalisés dans le cadre du parcours de formation *[Data Analyst](https://openclassrooms.com/fr/paths/324-data-analyst)* dispensé par OpenClassrooms.
 ## Outils utilisés
-||Jupyter<br>notebook|Python|NumPy|Pandas|Matplotlib|ScyPy|Knime|
-|--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|Projet 4|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |        |
-|Projet 5|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |        |
-|Projet 6|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |
-|Projet 7|&#10003;|&#10003;|&#10003;|&#10003;|        |        |&#10003;|
+||Jupyter<br>notebook|Python|NumPy|Pandas|Matplotlib|ScyPy|Knime|Power BI|
+|--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Projet 4|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |        |        |
+|Projet 5|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |        |        |
+|Projet 6|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |        |
+|Projet 7|&#10003;|&#10003;|&#10003;|&#10003;|        |        |&#10003;|        |
+|Projet 8|&#10003;|&#10003;|&#10003;|&#10003;|        |        |        |&#10003;|
 
 ## Projet 4 : Réaliser une étude de santé publique
 **Scénario**<br>
@@ -30,3 +31,8 @@ Obtenir un jeu de données exploitables à partir des fichiers source, puis réa
 Nous sommes employé, en tant que *Data Analyst*, d'un cabinet de consultant spécialisé dans la transformation digitale des entreprises. Ce dernier compte déjà plus de 150 salariés et est en phase de croissance importante. Il souhaite afficher une politique volontariste pour le développement de l'égalité femme-homme au sein du cabinet.<br><br>
 **Objectif**<br>
 Automatiser la création d'un rapport de diagnostic sur l'égalité professionnelle à partir des données du Système d’Informations des Ressources Humaines (SIRH) en utilisant le logiciel **Knime**. Il faut créer un *workflow* permettant d'importer et de préparer les données, de générer un fichier CSV (respectant la RGPD) utilisable pour de futures analyses et créer les graphiques des indicateurs du diagnostic.<br><br>
+## Projet 8 : Rapport de mixité sociale dans les lycées avec Power BI
+**Scénario**<br>
+Pour ce projet, nous avons la liberté de choisir une thématique qui nous intéresse à la place du sujet proposé. J'ai fait de traiter d'un sujet que les médias ont traité plusieurs fois au début de l'année 2023. Ce sujet porte sur les disparités sociales qui existent dans les lycées.<br><br>
+**Objectif**<br>
+Créer un rapport **Power BI** d'au moins 3 pages. Les données sources ont été prétraitées dans un *notebook* **Juypter** en utilisant la librairie **Pandas**. Il fallait également créer un *blueprint* synthétisant les fontionnalités du rapport ainsi qu'un *mock-up* reprenant le visuel des futures pages en basse définition.<br><br>

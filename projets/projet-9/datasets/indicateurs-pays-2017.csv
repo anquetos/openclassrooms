@@ -1,4 +1,4 @@
-pays,population_milliers_hab,evolution_population_%,consommation_volaille_%,tdi_%,disponibilite_kg_p_an,taux_croissance_%,revenu_par_habitant_usd,indice_stabilite_politique
+pays,population_milliers_hab,evolution_population_pct,consommation_volaille_pct,tdi_pct,disponibilite_kg_p_an,taux_croissance_pct,revenu_par_habitant_usd,indice_stabilite_politique
 Afghanistan,36296.113,3.29,0.42,50.88,1.53,4.86579,537.126294,-2.8
 Afrique du Sud,57009.756,1.4,6.41,24.27,35.69,17.7038,6537.504869,-0.28
 Albanie,2884.169,-0.45,1.29,74.51,16.36,9.765944,4532.791976,0.38

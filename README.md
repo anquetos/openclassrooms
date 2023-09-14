@@ -3,13 +3,22 @@
 # OpenClassrooms
 Ce dépôt contient une partie des projets réalisés dans le cadre du parcours de formation *[Data Analyst](https://openclassrooms.com/fr/paths/324-data-analyst)* dispensé par OpenClassrooms.
 ## Outils utilisés
-||Jupyter<br>notebook|Python|NumPy|Pandas|Matplotlib|ScyPy|Knime|Power BI|
-|--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|Projet 8|&#10003;|&#10003;|&#10003;|&#10003;|        |        |        |&#10003;|
-|Projet 7|&#10003;|&#10003;|&#10003;|&#10003;|        |        |&#10003;|        |
-|Projet 6|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |        |
-|Projet 5|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |        |        |
-|Projet 4|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |        |        |
+||Jupyter<br>notebook|Python|NumPy|Pandas|Matplotlib|ScyPy|scikit-learn|Knime|Power BI|
+|--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Projet 9|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |        |
+|Projet 8|&#10003;|&#10003;|&#10003;|&#10003;|        |        |        |        |&#10003;|
+|Projet 7|&#10003;|&#10003;|&#10003;|&#10003;|        |        |        |&#10003;|        |
+|Projet 6|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |        |        |
+|Projet 5|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |        |        |        |
+|Projet 4|&#10003;|&#10003;|&#10003;|&#10003;|&#10003;|        |        |        |        |
+
+## Projet 9 : Produisez une étude de marché avec Python
+**Scénario**<br>
+Nous sommes en poste chez **La poule qui chante**, une entreprise française d’agroalimentaire qui souhaite se développer à l'international. Cependant, la liste des pays potentiels dans lesquels s'implanter est longue. Pour cela, nous allons réaliser une analyse des groupements de pays que l'on pourra cibler grâce à différentes méthodes de *clustering*, puis nous approfondirons l'étude de marché.<br><br>
+**Objectif**<br>
+* Préparer, nettoyer et réaliser une analyse exploratoire dans un *notebook* **Juypter** :<br>
+Les données utilisées sont issues des [statistiques de la *Food and Agriculture Organization of the United Nations (FAO)*](https://www.fao.org/faostat/fr/#home). Elles nous permettront de définir les critères de l'analyse. Ces critères, seront appelés **indicateurs** dans la suite de l'étude.
+* Réaliser le *clustering* des pays grâce à la classification ascendante hiérarchique (CAH) et à la méthode des k-means puis réaliser une analyse en composantes principales (ACP) dans un second *notebook*.
 
 ## Projet 8 : Rapport de mixité sociale dans les lycées avec Power BI
 **Scénario**<br>

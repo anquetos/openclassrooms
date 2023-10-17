@@ -3,20 +3,44 @@
 # OpenClassrooms
 Ce dépôt contient une partie des projets réalisés dans le cadre du parcours de formation *[Data Analyst](https://openclassrooms.com/fr/paths/324-data-analyst)* dispensé par OpenClassrooms.
 ## &#128295; Outils utilisés
-|                   |Projet 9 |Projet 8 |Projet 7 |Projet 6 |Projet 5 |Projet 4 |Projet 3 |
-|:-----------------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|Jupyter<br>Notebook|&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |         |
-|Python             |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |         |
-|Numpy              |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |         |
-|Pandas             |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |         |
-|Matplotlib         |&#10003; |         |         |&#10003; |&#10003; |&#10003; |         |
-|Seaborn            |&#10003; |         |         |         |         |         |         |
-|ScyPy              |&#10003; |         |         |&#10003; |         |         |         |
-|scikit-learn       |&#10003; |         |         |         |         |         |         |
-|Knime              |&#10003; |         |&#10003; |         |         |         |         |
-|Power BI           |&#10003; |&#10003; |         |         |         |         |         |
-|SQLite             |         |         |         |         |         |         |&#10003; |
-|Power Query        |         |         |         |         |         |         |&#10003; |
+|                   |Projet 10 |Projet 9 |Projet 8 |Projet 7 |Projet 6 |Projet 5 |Projet 4 |Projet 3 |
+|:-----------------:|:--------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|Jupyter<br>Notebook|&#10003;  |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |         |
+|Python             |&#10003;  |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |         |
+|Numpy              |&#10003;  |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |         |
+|Pandas             |&#10003;  |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |         |
+|Matplotlib         |&#10003;  |&#10003; |         |         |&#10003; |&#10003; |&#10003; |         |
+|Seaborn            |&#10003;  |&#10003; |         |         |         |         |         |         |
+|ScyPy              |&#10003;  |&#10003; |         |         |&#10003; |         |         |         |
+|scikit-learn       |&#10003;  |&#10003; |         |         |         |         |         |         |
+|statsmodels        |&#10003;  |         |         |         |         |         |         |         |
+|Joblib             |&#10003;  |         |         |         |         |         |         |         |
+|pathlib            |&#10003;  |         |         |         |         |         |         |         |
+|Knime              |          |         |         |&#10003; |         |         |         |         |
+|Power BI           |          |         |&#10003; |         |         |         |         |         |
+|SQLite             |          |         |         |         |         |         |         |&#10003; |
+|Power Query        |          |         |         |         |         |         |         |&#10003; |
+
+## Projet 10 : Détectez des faux billets avec Python
+
+### &#127891; Compétences acquises
+* Réaliser une régression linéaire.
+* Opérer des classifications automatiques pour partitionner les données.
+* Réaliser une analyse prédictive.
+* Réaliser une régression logistique.
+* Réaliser une classification kNN et k-means.
+* Réaliser un arbre de décision et une forêt aléatoire.
+* Utiliser des méthodes ensemblistes (*Bagging* et *Boosting*).
+* Optimiser un modèle avec `GridSearchCV`.
+* Valider un modèle avec la validation croisée.
+
+### &#128203; Scénario
+En tant que consultant *Data Analyst* nous effectuons une prestation en régie au sein de l’**Organisation nationale de lutte contre le faux-monnayage (ONCFM)**. Cette institution a pour objectif de mettre en place des méthodes d’identification des contrefaçons des billets en euros.
+
+### &#127919; Objectifs
+* Préparer et analyser les données comprenant les caractéristiques dimensionnelles des billets en fonction de leur authenticité.
+* Explorer différentes solutions pour la mise en place de l'algorithme et retenir le modèle le plus adapté.
+* Tester notre algorithme sur de nouvelles données.
 
 ## Projet 9 : Produisez une étude de marché avec Python
 

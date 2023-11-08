@@ -16,9 +16,9 @@ Automatiser la création d'un rapport de diagnostic sur l'égalité professionne
 * Préparer des données pour l'analyse en respectant les normes internes à l’entreprise.
 
 ## Aperçu des indicteurs créés
-<img src='./images/example-output-01.svg' />
+<img src='./images/example-output-01.png' width='480px' />
 
-<img src='./images/example-output-02.svg' />
+<img src='./images/example-output-02.png' width='480px' />
 
 ## *Workflow* Knime
 <img src='analyse-indicateurs-egalite-femme-homme.svg' />

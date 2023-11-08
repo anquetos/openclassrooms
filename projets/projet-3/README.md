@@ -8,10 +8,10 @@ Nous sommes *Data Analyst* chez Laplace Immo, un réseau national d’agences im
 * Modifier la base de données permettant de collecter les transactions immobilières et foncières en France, puis implémenter cette nouvelle base de données et enfin effectuer les requêtes SQL nécessaires aux analyses.
 
 ## &#128295; Outils utilisés
-* Excel et Power Query : préparation des données.
-* draw.io : modèle de conception des données.
-* SQL Power Architect : modèle relationnel des données.
-* SQLiteStudio : implémentation de la base et requêtes.
+* **Excel** et **Power Query** : préparation des données.
+* **draw.io** : modèle de conception des données.
+* **SQL Power Architect** : modèle relationnel des données.
+* **SQLiteStudio** : implémentation de la base et requêtes.
 
 ## &#127891; Compétences acquises
 * Mettre à jour un catalogue de données.
@@ -19,6 +19,12 @@ Nous sommes *Data Analyst* chez Laplace Immo, un réseau national d’agences im
 * Effectuer des requêtes SQL pour répondre à une problématique métier.
 * Créer le schéma d'une base de données.
 * Charger des données dans une base de données.
+
+## Modèle de conception des données
+<img src='./images/modele-conception-donnees.png' width=640px />
+
+## Modèle relationnel des données
+<img src='./images/modele-relationnel-donnees.png' width=640px />
 
 ## Base de données implémentée dans SQLiteStudio
 <img src='./images/01.PNG' width=800px />

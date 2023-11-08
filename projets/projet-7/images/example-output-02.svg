@@ -1,0 +1,85 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="600"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     style="display: block;" class="nvd3-svg" contentStyleType="text/css"
+     height="400" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.0">
+    <style type="text/css" xml:space="preserve">.nvd3 text { font: 400 12px Arial; }
+.nvd3 .nv-legend .nv-series { cursor: pointer; }
+.nvd3.nv-pie path { stroke-opacity: 0; transition: fill-opacity 250ms linear 0s, stroke-width 250ms linear 0s, stroke-opacity 250ms linear 0s; }
+.nvd3.nv-pie path { stroke: rgb(255, 255, 255); stroke-width: 1px; stroke-opacity: 1; }
+.nvd3.nv-pie .nv-label { pointer-events: none; }
+.nvd3.nv-pie .nv-label rect { fill-opacity: 0; stroke-opacity: 0; }</style><style type="text/css"
+           xml:space="preserve">.knime-title { color: black; fill: black; font-size: 24px; }
+.knime-label, .knime-axis-label, .knime-tick-label, .knime-label text, text.knime-axis-label, text.knime-tick-label { color: black; fill: black; font-size: 12px; }
+.knime-legend-label, text.knime-legend-label { color: black; fill: black; font-size: 12px; font-weight: normal; }</style><text x="20"
+          y="30" id="title" class="knime-title">
+        Répartition des 10 plus hautes rémunérations entre les F et les H
+    </text>
+    <g class="nvd3 nv-wrap nv-pieChart" transform="translate(20,60)">
+        <g>
+            <g class="nv-pieWrap nvd3-svg">
+                <g class="nvd3 nv-wrap nv-pie nv-chart-6359"
+                   transform="translate(0,0)">
+                    <g>
+                        <g class="nv-pie" transform="translate(290,160)">
+                            <g class="nv-slice" fill="#F94144" stroke="#F94144">
+                                <path d="M7.83773951454306e-15,-128A128,128 0 0,1 121.73523408577965,-39.55417527999327L53.2591649125286,-17.304951684997054A56,56 0 0,0 3.429011037612589e-15,-56Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#43AA8B" stroke="#43AA8B">
+                                <path d="M121.73523408577965,-39.55417527999327A128,128 0 1,1 -2.351321854362918e-14,-128L-1.0287033112837767e-14,-56A56,56 0 1,0 53.2591649125286,-17.304951684997054Z"/>
+                            </g>
+                        </g>
+                        <g class="nv-pieLabels" transform="translate(290,160)">
+                            <g class="nv-label knime-label"
+                               transform="translate(54.07624321090753,-74.42956348249517)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);">
+                                    20%
+                                </text>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-54.07624321090752,74.42956348249517)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);">
+                                    80%
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g class="nv-legendWrap nvd3-svg knime-legend"
+               transform="translate(0,-60)">
+                <g class="nvd3 nv-legend" transform="translate(0,20)">
+                    <g transform="translate(500.00390625,20)">
+                        <g class="nv-series" transform="translate(0,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(249, 65, 68); fill-opacity: 1; stroke: rgb(249, 65, 68);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                F
+                            </text>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(39.330078125,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(67, 170, 139); fill-opacity: 1; stroke: rgb(67, 170, 139);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                H
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,6 +1,6 @@
-# Présentation projet 8 : Mixité sociale dans les lycées
+# Projet 8 : Rapport de mixité sociale dans les lycées avec Power BI
 
-## Objectif du projet
+## &#127919; Objectifs
 
 Réaliser un **tableau de bord** permettant de décrire les **inégalités sociales** entre les lycées à l’aide de **Power BI**.
 Pour cela, nous allons :
@@ -9,7 +9,7 @@ Pour cela, nous allons :
 1. Prétraiter les données qui seront ensuite utilisées dans Power BI.
 1. Créer le tableau de bord.
 
-## Présentation du sujet
+## &#128203; Présentation du sujet
 
 ### Contexte
 

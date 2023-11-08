@@ -1,2 +1,31 @@
-# livrables des projet
+# Dossiers ne concernant pas les projets
 /livrables/
+/administratif/
+
+# Dossiers des projets 1 et 2 (non pertinents)
+/projets/projet-1/
+/projets/projet-2
+
+# Dossiers contenant les fichiers sources des projets (instruction, etc.)
+fichiers-source/
+
+# Fichiers Office
+*.xlsx
+*.docx
+*.pptx
+
+# Fichiers draw.io et Power Architect
+*.drawio
+*.architect
+*.architect~
+
+# Fichiers texte
+*.txt
+
+# Dossiers et fichiers sépcifiques à certains projets
+projets/projet-4/correction-tristan-muscat/
+/projets/projet-5/profiling-reports/
+/projets/projet-7/source-tri-calcul-variables.pdf
+/projets/projet-8/mockup-mixite-sociale-dans-les-lycees.pdf
+/projets/projet-8/option-a/
+/projets/projet-10/detection-faux-billets-oncfm-algorithme.py

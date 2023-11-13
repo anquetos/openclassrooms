@@ -4,7 +4,7 @@
 
 # Dossiers des projets 1 et 2 (non pertinents)
 /projets/projet-1/
-/projets/projet-2
+/projets/projet-2/
 
 # Dossiers contenant les fichiers sources des projets (instruction, etc.)
 fichiers-source/
@@ -23,7 +23,7 @@ fichiers-source/
 *.txt
 
 # Dossiers et fichiers sépcifiques à certains projets
-projets/projet-4/correction-tristan-muscat/
+/projets/projet-4/correction-tristan-muscat/
 /projets/projet-5/profiling-reports/
 /projets/projet-7/source-tri-calcul-variables.pdf
 /projets/projet-8/mockup-mixite-sociale-dans-les-lycees.pdf
